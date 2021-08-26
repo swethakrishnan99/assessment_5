@@ -106,7 +106,7 @@ h1 {
   border-color: white green white orange;
   box-sizing: border-box;
   position: fixed;
-  background-image: url(sky.jpg);
+  background-image: url(image/sky.jpg);
   z-index: -1;
 }
 .sun {
@@ -122,13 +122,13 @@ h1 {
   margin: 0;
   position: absolute;
   top: 43vh;
-  background-image: url(city.png);
+  background-image: url(image/city.png);
   background-repeat: repeat-x;
   z-index: 1;
   animation: city 5s linear infinite;
 }
 #road {
-  background-image: url(road.jpg);
+  background-image: url(image/road.jpg);
   width: 100%;
   height: 231px;
   position: absolute;
